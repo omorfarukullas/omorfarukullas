@@ -40,11 +40,11 @@ I'm a Computer Science & Engineering undergraduate at United International Unive
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omorfarukullas&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
