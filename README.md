@@ -40,11 +40,19 @@ I'm a Computer Science & Engineering undergraduate at United International Unive
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omorfarukullas&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&theme=radical&hide_border=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=omorfarukullas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=omorfarukullas&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -73,18 +81,18 @@ A desktop-based resume generator built with JavaFX, developed as part of Advance
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&theme=tokyo-night&hide_border=true&area=true)
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omorullas/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omor.farukh16@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omorfarukullas)
 
 ## 💡 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=omorfarukullas&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=omorfarukullas&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
