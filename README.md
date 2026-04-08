@@ -25,32 +25,50 @@
 
 <img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-### `> whoami`
 
-```yaml
-name       : Omor Faruk Ullas
-role       : Full Stack Engineer + AI/ML Practitioner
-university : United International University — B.Sc. CSE
-location   : Dhaka, Bangladesh 🇧🇩
-email      : omor.farukh16@gmail.com
+  <div align="center">
 
-focus:
-  - LLMs & Transformer architecture
-  - Deep Learning with PyTorch
-  - RAG pipelines & vector databases
-  - Full stack systems with Next.js + FastAPI
-  - Healthcare AI — MediconnectBD
+<!-- WHO AM I CARD -->
+<div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:24px 28px;max-width:680px;margin:0 auto;text-align:left">
 
-currently_learning:
-  - LLM fine-tuning (LoRA / QLoRA)
-  - MLOps & model deployment
-  - Agentic AI systems
+  <div style="display:flex;align-items:center;gap:14px;margin-bottom:16px">
+    <div style="width:50px;height:50px;border-radius:50%;background:#0c447c;display:flex;align-items:center;justify-content:center;font-weight:500;font-size:15px;color:#b5d4f4;border:1px solid #30363d">OFU</div>
+    <div>
+      <div style="font-size:17px;font-weight:500;color:#e6edf3">Omor Faruk Ullas</div>
+      <div style="font-size:12px;color:#8b949e;margin-top:3px">
+        <span style="width:7px;height:7px;border-radius:50%;background:#1d9e75;display:inline-block;margin-right:5px"></span>Open to collaborations
+      </div>
+    </div>
+  </div>
 
-fun_fact: I debug neural nets the same way
-          I read football tactics — pattern first.
-```
+  <div style="margin-bottom:16px">
+    <span style="background:#0c447c;color:#b5d4f4;padding:3px 10px;border-radius:99px;font-size:11px;font-weight:500;margin-right:4px">Full stack engineer</span>
+    <span style="background:#085041;color:#9fe1cb;padding:3px 10px;border-radius:99px;font-size:11px;font-weight:500;margin-right:4px">AI/ML practitioner</span>
+    <span style="background:#3c3489;color:#cecbf6;padding:3px 10px;border-radius:99px;font-size:11px;font-weight:500">LLM builder</span>
+  </div>
 
-<br clear="right"/>
+  <hr style="border:none;border-top:1px solid #30363d;margin:12px 0">
+
+  <div style="font-size:13px;margin:5px 0"><span style="color:#8b949e;font-family:monospace;min-width:72px;display:inline-block">edu</span><span style="color:#e6edf3">United International University · B.Sc. CSE</span></div>
+  <div style="font-size:13px;margin:5px 0"><span style="color:#8b949e;font-family:monospace;min-width:72px;display:inline-block">location</span><span style="color:#e6edf3">Dhaka, Bangladesh</span></div>
+  <div style="font-size:13px;margin:5px 0"><span style="color:#8b949e;font-family:monospace;min-width:72px;display:inline-block">contact</span><span style="color:#58a6ff">omor.farukh16@gmail.com</span></div>
+
+  <hr style="border:none;border-top:1px solid #30363d;margin:12px 0">
+
+  <div style="font-size:10px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:#8b949e;margin-bottom:10px">Currently absorbing</div>
+  <div>
+    <span style="background:#633806;color:#fac775;padding:3px 10px;border-radius:99px;font-size:11px;font-weight:500;margin-right:4px">LoRA / QLoRA fine-tuning</span>
+    <span style="background:#085041;color:#9fe1cb;padding:3px 10px;border-radius:99px;font-size:11px;font-weight:500;margin-right:4px">MLOps &amp; deployment</span>
+    <span style="background:#3c3489;color:#cecbf6;padding:3px 10px;border-radius:99px;font-size:11px;font-weight:500;margin-right:4px">Agentic AI systems</span>
+    <span style="background:#712b13;color:#f5c4b3;padding:3px 10px;border-radius:99px;font-size:11px;font-weight:500">Vector databases</span>
+  </div>
+
+  <hr style="border:none;border-top:1px solid #30363d;margin:12px 0">
+  <div style="font-size:12px;color:#8b949e;font-style:italic;line-height:1.6">"I debug neural nets the same way I read football tactics — pattern first."</div>
+
+</div>
+
+</div>
 
 ---
 
@@ -197,18 +215,51 @@ Clean GUI with live preview, structured around inheritance, encapsulation, and e
 </div>
 
 ---
+<div align="center">
 
-## 2025 Roadmap
+<div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:24px 28px;max-width:680px;margin:0 auto;text-align:left">
 
-```
-[✅] Launch MediconnectBD MVP
-[  ] Fine-tune a domain LLM on medical data (LoRA + QLoRA)
-[  ] Build an end-to-end RAG pipeline with vector search
-[  ] Complete PyTorch deep learning research project
-[  ] Publish Jupyter notebook series: AI for Healthcare
-[  ] Reach Kaggle Expert rank
-[  ] Contribute to an open-source LLM / ML project
-```
+  <div style="font-size:10px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:#8b949e;margin-bottom:12px">Trajectory</div>
+
+  <div style="padding:8px 0;border-bottom:1px solid #30363d;display:flex;gap:12px">
+    <span style="font-family:monospace;font-size:11px;color:#8b949e;min-width:20px">01</span>
+    <div><div style="font-size:13px;font-weight:500;color:#e6edf3">End-to-end LLM pipeline from scratch</div><div style="font-size:12px;color:#8b949e;margin-top:2px">Train, fine-tune with LoRA/QLoRA, evaluate, and deploy a domain-specific model — owning every layer.</div><span style="background:#0c447c;color:#b5d4f4;padding:2px 8px;border-radius:99px;font-size:10px;font-weight:500;margin-top:5px;display:inline-block">build</span></div>
+  </div>
+
+  <div style="padding:8px 0;border-bottom:1px solid #30363d;display:flex;gap:12px">
+    <span style="font-family:monospace;font-size:11px;color:#8b949e;min-width:20px">02</span>
+    <div><div style="font-size:13px;font-weight:500;color:#e6edf3">Production RAG system with real recall metrics</div><div style="font-size:12px;color:#8b949e;margin-top:2px">Not a demo — a retrieval pipeline with chunking strategy, reranking, and latency benchmarks.</div><span style="background:#085041;color:#9fe1cb;padding:2px 8px;border-radius:99px;font-size:10px;font-weight:500;margin-top:5px;display:inline-block">ship</span></div>
+  </div>
+
+  <div style="padding:8px 0;border-bottom:1px solid #30363d;display:flex;gap:12px">
+    <span style="font-family:monospace;font-size:11px;color:#8b949e;min-width:20px">03</span>
+    <div><div style="font-size:13px;font-weight:500;color:#e6edf3">Kaggle Expert rank</div><div style="font-size:12px;color:#8b949e;margin-top:2px">Through competitions, not shortcuts — notebooks that others actually learn from.</div><span style="background:#712b13;color:#f5c4b3;padding:2px 8px;border-radius:99px;font-size:10px;font-weight:500;margin-top:5px;display:inline-block">compete</span></div>
+  </div>
+
+  <div style="padding:8px 0;border-bottom:1px solid #30363d;display:flex;gap:12px">
+    <span style="font-family:monospace;font-size:11px;color:#8b949e;min-width:20px">04</span>
+    <div><div style="font-size:13px;font-weight:500;color:#e6edf3">Contribute to a meaningful open-source ML project</div><div style="font-size:12px;color:#8b949e;margin-top:2px">A real PR that fixes something real — not a README typo.</div><span style="background:#633806;color:#fac775;padding:2px 8px;border-radius:99px;font-size:10px;font-weight:500;margin-top:5px;display:inline-block">open source</span></div>
+  </div>
+
+  <div style="padding:8px 0;border-bottom:1px solid #30363d;display:flex;gap:12px">
+    <span style="font-family:monospace;font-size:11px;color:#8b949e;min-width:20px">05</span>
+    <div><div style="font-size:13px;font-weight:500;color:#e6edf3">Publish a research-quality Jupyter series</div><div style="font-size:12px;color:#8b949e;margin-top:2px">AI for healthcare — reproducible notebooks written for people who want to understand, not just run.</div><span style="background:#3c3489;color:#cecbf6;padding:2px 8px;border-radius:99px;font-size:10px;font-weight:500;margin-top:5px;display:inline-block">publish</span></div>
+  </div>
+
+  <hr style="border:none;border-top:1px solid #30363d;margin:16px 0">
+
+  <div style="font-size:10px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:#8b949e;margin-bottom:10px">Working principles</div>
+
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px">
+    <div style="background:#161b22;border-radius:8px;padding:10px 12px"><div style="font-size:12px;font-weight:500;color:#e6edf3">Understand before implement</div><div style="font-size:11px;color:#8b949e;margin-top:2px">Read the paper, then write the code</div></div>
+    <div style="background:#161b22;border-radius:8px;padding:10px 12px"><div style="font-size:12px;font-weight:500;color:#e6edf3">Ship before perfect</div><div style="font-size:11px;color:#8b949e;margin-top:2px">Working beats waiting</div></div>
+    <div style="background:#161b22;border-radius:8px;padding:10px 12px"><div style="font-size:12px;font-weight:500;color:#e6edf3">Measure everything</div><div style="font-size:11px;color:#8b949e;margin-top:2px">Intuition is a hypothesis</div></div>
+    <div style="background:#161b22;border-radius:8px;padding:10px 12px"><div style="font-size:12px;font-weight:500;color:#e6edf3">Teach to retain</div><div style="font-size:11px;color:#8b949e;margin-top:2px">If you can't explain it, you don't know it</div></div>
+  </div>
+
+</div>
+
+</div>
 
 ---
 
