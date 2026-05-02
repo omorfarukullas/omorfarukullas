@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000d1a?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://www.linkedin.com/in/omorullas/)
 [![Gmail](https://img.shields.io/badge/GMAIL-000d1a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:omor.farukh16@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000d1a?style=for-the-badge&logo=firefox&logoColor=00d4ff)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000d1a?style=for-the-badge&logo=firefox&logoColor=00d4ff)](https://omorfarukullas.vercel.app)
 [![Kaggle](https://img.shields.io/badge/KAGGLE-000d1a?style=for-the-badge&logo=kaggle&logoColor=00d4ff)](https://kaggle.com/omorfarukullas)
 [![Views](https://komarev.com/ghpvc/?username=omorfarukullas&color=00d4ff&style=for-the-badge&label=SIGNAL+REACH)](https://github.com/omorfarukullas)
 
