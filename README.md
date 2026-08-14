@@ -1,32 +1,31 @@
 <!--
   Setup:
-  1) Create a public GitHub repo named exactly `your-username` (same as your GitHub
-     username) and put this file in it as README.md — GitHub will show it on your profile.
-  2) Find-and-replace every `your-username` below with your real GitHub username.
-  3) Swap the email / LinkedIn / portfolio links near the bottom for your own.
-  4) (Optional) To light up the contribution snake, add the Platane/snk GitHub Action
-     to this repo: https://github.com/Platane/snk
+  To light up the contribution snake animation, ensure the Platane/snk GitHub Action workflow (.github/workflows/snake.yml) is present in your repo.
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:15213B,100:22D3EE&height=200&section=header&text=Hi%20there%2C%20I'm%20Sergio&fontSize=46&fontColor=F5F5F7&animation=fadeIn&fontAlignY=38" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:15213B,100:22D3EE&height=200&section=header&text=Hi%20there%2C%20I'm%20OMOR%20FARUCK%20ULLAS&fontSize=38&fontColor=F5F5F7&animation=fadeIn&fontAlignY=38" width="100%" alt="OMOR FARUCK ULLAS Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+Making;Exploring+Low-Resource+Bangla+NLP;Building+Real-Time+IoT+with+ESP32;Turning+Messy+Data+into+Working+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer+in+the+Making;Exploring+Low-Resource+Bangla+NLP;Building+Real-Time+IoT+with+ESP32;Turning+Messy+Data+into+Working+Systems" alt="Typing SVG Tagline" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1vdWc1ZTBsdThsa2g3bHZ6OHExOHRocnlzc2JraTdmcTRxMWJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" alt="Cyberpunk Data Stream Circuit Animation" />
 
 </div>
 
 ```
-sergio@uiu:~$ whoami
+omor@ullas:~$ whoami
 
-> CSE undergraduate — United International University (UIU)
+> CSE undergraduate — United International University (UIU), Bangladesh
 > focus: AI/ML · NLP · Low-Resource Language Processing · Software Engineering
 > currently_exploring: coordinated propaganda detection in low-resource Bangla
 > mission: turn messy real-world data into systems that actually work
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="Neon Divider" />
 </div>
 
 ## 🔭 Currently Building & Exploring
@@ -40,6 +39,10 @@ sergio@uiu:~$ whoami
 
 > ### Coordinated Propaganda Detection in Low-Resource Bangla
 > Investigating whether coordinated propaganda can be detected in Bangla, a low-resource language, using data drawn from online media. Working with a team to explore building a **Bangla propaganda dataset** and to evaluate detection approaches — currently deep in the literature, mapping existing datasets, preprocessing techniques, and evaluation methods before locking in a research direction.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="Neon Divider" />
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -81,11 +84,15 @@ sergio@uiu:~$ whoami
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="Neon Divider" />
+</div>
+
 ## 🗂️ Featured Projects
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
-| 🩺 **MediSheba BD** | Smart healthcare & live queue management system — real-time queue tracking for patients and doctors | React · TypeScript · Node.js · MySQL | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
+| 🩺 **MediSheba BD** | Smart healthcare & live queue management, real-time queue tracking for patients and doctors | React · TypeScript · Node.js · MySQL | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
 | 🛍️ **KaajerBazar** | Micro-project marketplace for Bangladeshi students with AI-assisted bid matching | Next.js · Tailwind · Claude API · Supabase | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
 | ☀️ **HelioSense** | Real-time smart solar panel monitoring system | ESP32 · C++ · Sensors · IoT | ![In Progress](https://img.shields.io/badge/-In%20Progress-orange?style=flat-square) |
 | 🌊 **Local Flood Management System** | Real-time environmental monitoring & early flood-warning prototype | ESP32 · C++ · Sensors | ![Completed](https://img.shields.io/badge/-Completed-brightgreen?style=flat-square) |
@@ -93,45 +100,55 @@ sergio@uiu:~$ whoami
 | 🔎 **Bangla Propaganda Detection** *(Research)* | Investigating coordinated propaganda detection in low-resource Bangla | NLP · Low-Resource NLP · Dataset Construction | ![In Progress](https://img.shields.io/badge/-In%20Progress-orange?style=flat-square) |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="Neon Divider" />
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=F5A623&text_color=F5F5F7&count_private=true" width="48%" alt="Sergio's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=F5F5F7" width="42%" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=F5A623&text_color=F5F5F7&count_private=true" width="48%" alt="OMOR FARUCK ULLAS GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=F5F5F7" width="42%" alt="Most Used Languages" />
 
-<img src="https://streak-stats.demolab.com?user=your-username&hide_border=true&background=0B0F19&ring=22D3EE&fire=F5A623&currStreakLabel=F5F5F7&sideLabels=F5F5F7&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=6B7280" width="65%" alt="GitHub streak stats" />
+<br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=omorfarukullas&hide_border=true&background=0B0F19&ring=22D3EE&fire=F5A623&currStreakLabel=F5F5F7&sideLabels=F5F5F7&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=6B7280" width="65%" alt="GitHub Streak Stats" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="Neon Divider" />
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/omorfarukullas/omorfarukullas/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </div>
 
-*(Needs the one-time GitHub Action setup mentioned at the top of this file to actually animate.)*
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="Neon Divider" />
+</div>
 
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logoColor=white)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omorfarukullas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omorullas/)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/berlinsergio34)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omor.farukh16@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omorfaruk16)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logoColor=white)](https://omorfarukullas.vercel.app/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=22D3EE&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=omorfarukullas&color=22D3EE&style=flat-square&label=Profile+Views)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:15213B,100:0B0F19&height=150&section=footer&animation=fadeIn&text=Thanks%20for%20stopping%20by&fontSize=20&fontColor=F5F5F7&fontAlignY=85" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:15213B,100:0B0F19&height=150&section=footer&animation=fadeIn&text=Thanks%20for%20stopping%20by&fontSize=20&fontColor=F5F5F7&fontAlignY=85" width="100%" alt="Footer Banner" />
 </div>
 
 ```
