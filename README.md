@@ -107,12 +107,11 @@ omor@ullas:~$ whoami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=F5A623&text_color=F5F5F7&count_private=true&cache_seconds=1800" width="48%" alt="OMOR FARUCK ULLAS GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=F5F5F7&cache_seconds=1800" width="42%" alt="Most Used Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&theme=react-dark&bg_color=0B0F19&color=22D3EE&line=22D3EE&point=F5A623&area=true&hide_border=true" width="100%" alt="OMOR FARUCK ULLAS GitHub Activity Graph" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=omorfarukullas&hide_border=true&background=0B0F19&ring=22D3EE&fire=F5A623&currStreakLabel=F5F5F7&sideLabels=F5F5F7&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=6B7280" width="65%" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=omorfarukullas&hide_border=true&background=0B0F19&ring=22D3EE&fire=F5A623&currStreakLabel=F5F5F7&sideLabels=F5F5F7&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=6B7280" width="80%" alt="GitHub Streak Stats" />
 
 </div>
 
