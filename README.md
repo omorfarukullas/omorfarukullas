@@ -111,7 +111,9 @@ omor@ullas:~$ whoami
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=omorfarukullas&hide_border=true&background=0B0F19&ring=22D3EE&fire=F5A623&currStreakLabel=F5F5F7&sideLabels=F5F5F7&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=6B7280" width="80%" alt="GitHub Streak Stats" />
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-185+-22D3EE?style=for-the-badge&logo=github&logoColor=white)
+![Current Streak](https://img.shields.io/badge/Current_Streak-Active-F5A623?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active_Developer-A78BFA?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
