@@ -1,155 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:22D3EE,50:A78BFA,100:F472B6&height=200&section=header&text=Omor%20Faruck%20Ullas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20systems%20from%20messy%20data&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Omor Faruck Ullas" />
-
-<a href="https://github.com/omorfarukullas">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1100&color=22D3EE&center=true&vCenter=true&width=640&height=40&lines=Low-resource+Bangla+NLP+%F0%9F%87%A7%F0%9F%87%A9;Real-time+IoT+on+ESP32+%E2%9A%A1;Applied+AI+%C2%B7+Full-Stack+%C2%B7+Research;CSE+%40+UIU+%C2%B7+Class+of+2027" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=2" width="100%" alt="rule" />
+<sub><b>VOL. 1 &nbsp;·&nbsp; DHAKA, BANGLADESH &nbsp;·&nbsp; CLASS OF 2027 &nbsp;·&nbsp; FREE TO READ</b></sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=1" width="100%" alt="rule" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B0F19)](https://omorfarukullas.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omorullas/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omorfaruk16)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omor.farukh16@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/berlinsergio34)
+# THE ULLAS TIMES
+
+### *Building systems from messy data*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C1121F&height=4" width="100%" alt="red rule" />
+<sub><b>NLP</b> &nbsp;|&nbsp; <b>IOT</b> &nbsp;|&nbsp; <b>FULL-STACK</b> &nbsp;|&nbsp; <b>RESEARCH</b> &nbsp;|&nbsp; <b>FOOTBALL ANALYTICS</b></sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=1" width="100%" alt="rule" />
 
 </div>
 
 <br/>
 
-## 👋 About me
+## 📰 FRONT PAGE
 
-I am a CSE undergraduate at **United International University (UIU), Dhaka**, graduating in **2027**.
-I work where **messy real-world data** meets **working software**.
+# Can Propaganda Be Detected in Bangla?
 
-A model that only works on a clean benchmark is not my goal. A system that works on real, noisy input is.
+**By Omor Faruck Ullas** · *CSE undergraduate, United International University (UIU)*
 
-|  |  |
-|:--|:--|
-| 🔭 **Researching** | Can coordinated propaganda be detected in **Bangla**? |
-| 🛠️ **Building** | HelioSense, a real-time smart solar panel monitor |
-| 🌱 **Learning** | Low-resource NLP methods, DevOps |
-| ⚽ **Also into** | Football analytics |
-| 🤝 **Open to** | Research collaboration · AI/ML and NLP projects · Embedded and IoT builds |
+Bangla has hundreds of millions of speakers, but very few NLP resources. Basic questions are still open: *Where is the data? Who labelled it? Does it reflect real online media?*
 
-<br/>
+This is the main story of the edition. The goal is a **Bangla propaganda dataset** with a clear annotation guide, and a fair comparison of detection methods on real, noisy text.
 
-## 🧰 Tech stack
+> *"A model that only works on a clean benchmark is not the goal. A system that works on real, noisy input is."*
 
-<div align="center">
+**Status:** 🔎 Research in progress. Results will be printed here when they exist.
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts&perline=5" alt="Languages" />
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi&perline=3" alt="AI and backend" />
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&perline=4" alt="Web" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,arduino,raspberrypi,git,github&perline=7" alt="Data, embedded, tools" />
-
-</div>
-
-<details>
-<summary><b>See the full breakdown</b></summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=1" width="100%" alt="rule" />
 
 <br/>
 
-| Layer | Tools | Used for |
-|:--|:--|:--|
-| 🧠 Research & ML | Python · PyTorch · TensorFlow · Hugging Face | Models, datasets, evaluation |
-| ⚙️ Backend | FastAPI · Node.js · PostgreSQL · MySQL · Supabase | APIs and data storage |
-| 🎨 Frontend | React · Next.js · TypeScript · Tailwind CSS | Interfaces |
-| 📡 Embedded | ESP32 · C/C++ · Raspberry Pi | Sensors and real-time monitoring |
-| 🧰 Core | Java · JavaScript · Git · GitHub | Everything else |
-
-</details>
-
-<br/>
-
-## 🚀 Featured projects
+## 🗞️ ALSO IN THIS EDITION
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔎 Bangla Propaganda Detection</h3>
-      <p>Can coordinated propaganda be found in Bangla online media? Building a dataset and comparing detection methods.</p>
-      <img src="https://img.shields.io/badge/NLP-22D3EE?style=flat-square" />
-      <img src="https://img.shields.io/badge/Dataset-A78BFA?style=flat-square" />
-      <img src="https://img.shields.io/badge/Research-F5A623?style=flat-square" />
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <sub><b>HARDWARE · IN PROGRESS</b></sub>
       <h3>☀️ HelioSense</h3>
       <p>Real-time monitoring for smart solar panels, built on ESP32 with live sensor data.</p>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/In_progress-F5A623?style=flat-square" />
+      <sub><i>ESP32 · C++ · Sensors</i></sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <sub><b>WEB · DONE</b></sub>
       <h3>🛍️ KaajerBazar</h3>
       <p>A micro-project marketplace for Bangladeshi students, with AI-assisted bid matching.</p>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square" />
+      <sub><i>Next.js · Tailwind · Claude API · Supabase</i></sub>
     </td>
-    <td width="50%" valign="top">
-      <h3>🌊 Local Flood Management System</h3>
-      <p>Environmental monitoring with early flood warning, running on ESP32 sensors.</p>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Done-34D399?style=flat-square" />
+    <td width="33%" valign="top">
+      <sub><b>HARDWARE · DONE</b></sub>
+      <h3>🌊 Flood Management System</h3>
+      <p>Environmental monitoring with early flood warning for local areas.</p>
+      <sub><i>ESP32 · C++ · Sensors</i></sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <sub><b>HEALTH · DONE</b></sub>
       <h3>🩺 MediSheba BD</h3>
-      <p>Healthcare platform with live queue tracking.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <p>A healthcare platform with live queue tracking.</p>
+      <sub><i>React · TypeScript · Node.js · MySQL</i></sub>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <sub><b>DESKTOP · DONE</b></sub>
       <h3>📄 JavaFX Resume Generator</h3>
-      <p>Desktop resume builder with a clean object-oriented design.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaFX-5382A1?style=flat-square" />
-      <img src="https://img.shields.io/badge/Done-34D399?style=flat-square" />
+      <p>A desktop resume builder with a clean object-oriented design.</p>
+      <sub><i>Java · JavaFX</i></sub>
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>OPINION</b></sub>
+      <h3>🧭 Why messy data?</h3>
+      <p>A sensor that works only on my desk is not a product. Real systems must survive real input.</p>
+      <sub><i>Editor's note</i></sub>
     </td>
   </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=1" width="100%" alt="rule" />
+
 <br/>
 
-## 📊 GitHub stats
+## 🔧 THE TECH INDEX
+
+| Section | Tools |
+|:--|:--|
+| **Research & ML** | Python · PyTorch · TensorFlow · Hugging Face |
+| **Backend** | FastAPI · Node.js · PostgreSQL · MySQL · Supabase |
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **Embedded** | ESP32 · C/C++ · Raspberry Pi |
+| **Core** | Java · JavaScript · Git · GitHub |
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cpp,java,ts,react,nextjs,fastapi,pytorch,tensorflow,postgres,supabase,arduino,raspberrypi,git&perline=14" alt="Tech icons" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=1" width="100%" alt="rule" />
+
+<br/>
+
+## 📈 THE NUMBERS
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=F5A623&text_color=F5F5F7&ring_color=A78BFA" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&hide_border=true&title_color=0891B2&icon_color=D97706&ring_color=7C3AED" height="170" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F0F0&icon_color=C1121F&text_color=C9D1D9&ring_color=C1121F" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111111&icon_color=C1121F&text_color=333333&ring_color=C1121F" height="170" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=F5F5F7" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&hide_border=true&title_color=0891B2" height="170" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&hide_border=true&bg_color=0D1117&title_color=F0F0F0&text_color=C9D1D9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=333333" height="170" alt="Top languages" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&theme=react-dark&bg_color=0B0F19&color=22D3EE&line=A78BFA&point=F5A623&area=true&area_color=22D3EE&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&bg_color=FFFFFF&color=0891B2&line=7C3AED&point=D97706&area=true&area_color=22D3EE&hide_border=true" width="95%" alt="Contribution activity" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&bg_color=0D1117&color=F0F0F0&line=C1121F&point=FFFFFF&area=true&area_color=C1121F&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&bg_color=FFFFFF&color=111111&line=C1121F&point=111111&area=true&area_color=C1121F&hide_border=true" width="95%" alt="Contribution activity" />
 </picture>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/omorfarukullas/omorfarukullas/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake" />
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=1" width="100%" alt="rule" />
+
 <br/>
 
-## 🎯 Goals
+## 📌 NEXT ISSUE
 
 - [ ] Lock the research direction for Bangla propaganda detection
 - [ ] Release a Bangla propaganda dataset with a clear annotation guide
@@ -159,12 +143,28 @@ A model that only works on a clean benchmark is not my goal. A system that works
 
 <br/>
 
+## 📣 CLASSIFIEDS
+
+> **WANTED:** Research collaboration · AI/ML and NLP projects · Embedded and IoT builds
+>
+> **CONTACT:** Reply by email, or find me on the links below.
+
 <div align="center">
 
-> *Messy data in. Working systems out.*
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=omorfarukullas&color=A78BFA&style=flat-square&label=Profile+views" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C1121F&height=4" width="100%" alt="red rule" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A78BFA,100:F472B6&height=120&section=footer" width="100%" alt="Footer" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://omorfarukullas.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omorullas/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omorfaruk16)
+[![Email](https://img.shields.io/badge/Email-C1121F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omor.farukh16@gmail.com)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/berlinsergio34)
+
+<sub><b>THE ULLAS TIMES</b> · Printed in Dhaka · Updated whenever the work changes</sub>
+
+<img src="https://komarev.com/ghpvc/?username=omorfarukullas&color=C1121F&style=flat-square&label=Readers" alt="Readers" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=2" width="100%" alt="rule" />
 
 </div>
