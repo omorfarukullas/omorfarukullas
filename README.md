@@ -1,318 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,35:A78BFA,70:F472B6,100:F5A623&height=180&section=header&text=&fontSize=0" width="100%" alt="Colour banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B0F19,50:111827,100:1E1B4B&height=200&section=header&text=OMOR%20FARUCK%20ULLAS&fontSize=42&fontColor=22D3EE&fontAlignY=42&desc=AI%2FML%20Researcher%20%C2%B7%20Low-Resource%20Bangla%20NLP%20%C2%B7%20Full-Stack%20%26%20ESP32%20Systems&descSize=16&descColor=F5F5F7&descAlignY=68&stroke=22D3EE&strokeWidth=1" width="100%" alt="Header Banner" />
 
-<img src="./logo.svg" width="130" alt="OFU logo" />
-
-# OMOR FARUCK ULLAS&lt;div align=&quot;center&quot;&gt;
+<img src="./logo.svg" width="115" alt="OFU Logo" />
 
 <br/>
 
-&lt;img src=&quot;./logo.svg&quot; width=&quot;110&quot; alt=&quot;OFU Logo&quot; /&gt;
-
-# OMOR FARUCK ULLAS
-
-&lt;a href=&quot;https://omorfarukullas.vercel.app/&quot;&gt;
-  &lt;img src=&quot;https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=18&amp;pause=1400&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Turning+Messy+Real-World+Data+into+Working+Systems;Low-Resource+Bangla+NLP+%26+Propaganda+Detection;Full-Stack+Web+Platforms+%26+ESP32+IoT+Telemetry;CSE+Undergrad+%40+United+International+University+(UIU)&quot; alt=&quot;Typing SVG&quot; /&gt;
-&lt;/a&gt;
-
-&lt;sub&gt;**AI/ML Researcher · Full-Stack Engineer · Embedded Systems Builder**&lt;/sub&gt;<br/>
-&lt;sub&gt;📍 Dhaka, Bangladesh · 🎓 B.Sc. in CSE @ UIU (Expected 2027)&lt;/sub&gt;
+<a href="https://omorfarukullas.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=19&pause=1300&color=22D3EE&center=true&vCenter=true&width=760&lines=Turning+Messy+Real-World+Data+into+Systems+That+Actually+Work;Researching+Coordinated+Propaganda+%26+OCR+in+Low-Resource+Bangla;Architecting+Full-Stack+Web+Platforms+%26+Edge+ESP32+Telemetry;B.Sc.+in+CSE+%40+United+International+University+(UIU)%2C+Dhaka" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[Portfolio](https://www.google.com/search?q=https%3A%2F%2Fomorfarukullas.vercel.app%2F)
-[GitHub](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fomorfarukullas)
-[LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fomorullas%2F)
-[Kaggle](https://www.google.com/search?q=https%3A%2F%2Fwww.kaggle.com%2Fomorfaruk16)
-[X](https://www.google.com/search?q=https%3A%2F%2Fx.com%2Fberlinsergio34)
-[](mailto:omor.farukh16@gmail.com)
+[[https://img.shields.io/badge/Portfolio-omorfarukullas.vercel.app-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B0F19&labelColor=0B0F19]](https://omorfarukullas.vercel.app/)
+[[https://img.shields.io/badge/GitHub-@omorfarukullas-F5F5F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19]](https://github.com/omorfarukullas)
+[[https://img.shields.io/badge/LinkedIn-omorullas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19]](https://www.linkedin.com/in/omorullas/)
+[[https://img.shields.io/badge/Kaggle-omorfaruk16-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0B0F19]](https://www.kaggle.com/omorfaruk16)
+[[https://img.shields.io/badge/X-@berlinsergio34-A78BFA?style=for-the-badge&logo=x&logoColor=white&labelColor=0B0F19]](https://x.com/berlinsergio34)
+[[https://img.shields.io/badge/Email-Contact_Me-F472B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19]](mailto:omor.farukh16@gmail.com)
 
+[https://komarev.com/ghpvc/?username=omorfarukullas&color=22D3EE&style=flat-square&label=PROFILE+VIEWS]
+[https://img.shields.io/badge/BASE-DHAKA%2C_BANGLADESH-34D399?style=flat-square&labelColor=0B0F19]
+[https://img.shields.io/badge/UIU_CSE-CLASS_OF_2027-F5A623?style=flat-square&labelColor=0B0F19]
 
-&lt;/div&gt;
+</div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F472B6&height=2" width="100%" alt="divider" />
 
-```yaml
-omor@ullas:~$ cat system_profile.yaml
-mission:      "Build software and models that survive real, noisy input—not just clean benchmarks."
-research:     "Coordinated propaganda detection, multimodal disinformation & low-resource OCR in Bangla."
-engineering:  "Full-stack web architectures (Next.js / FastAPI / Supabase) + real-time ESP32 telemetry."
-availability: "Open to AI/ML & NLP research collaborations, full-stack builds, and embedded IoT systems."
-```
+## ⚡ Engineering & Research Thesis
+
+> **Turning messy real-world data into working software.**
+> Most AI progress is measured on clean English benchmarks. For **Bangla**—spoken by hundreds of millions—fundamental questions remain open: *Where is the high-quality data? How do we handle degraded document scans, code-mixing, and coordinated manipulation?* My work sits at the intersection of **low-resource Bangla NLP & OCR**, **production full-stack engineering**, and **real-time ESP32 hardware systems**.
 
 $$\max_{\theta}\ \mathbb{E}_{x \sim \text{messy world}}\Big[\ \text{usefulness}\big(f_\theta(x)\big)\ \Big]$$
 
-&lt;div align=&quot;center&quot;&gt;
-  &lt;sub&gt;A model that only works on a clean benchmark isn&#39;t the goal. A sensor that only works on my desk isn&#39;t a product.&lt;/sub&gt;
-&lt;/div&gt;
+<div align="center">
+  <sub><i>A model that only works on a clean benchmark is not the goal. A sensor that only works on a lab desk is not a product.</i></sub>
+</div>
 
 <br/>
 
-## ⚡ Featured Systems & Research
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F472B6,50:A78BFA,100:22D3EE&height=2" width="100%" alt="divider" />
 
-&lt;table width=&quot;100%&quot;&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-      &lt;h3&gt;🔎 Bangla Propaganda Detection&lt;/h3&gt;
-      &lt;p&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-F5A623?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;Active Research&quot; /&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/DOMAIN-LOW--RESOURCE_NLP-22D3EE?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;NLP&quot; /&gt;
-      &lt;/p&gt;
-      &lt;p&gt;Investigating whether coordinated propaganda and disinformation campaigns can be reliably detected across noisy Bangla online media and low-quality document scans. Constructing a custom annotated corpus and benchmarking transformer and multimodal architectures.&lt;/p&gt;
-      &lt;p&gt;&lt;kbd&gt;Python&lt;/kbd&gt; &lt;kbd&gt;PyTorch&lt;/kbd&gt; &lt;kbd&gt;Hugging Face&lt;/kbd&gt; &lt;kbd&gt;Dataset Construction&lt;/kbd&gt; &lt;kbd&gt;OCR&lt;/kbd&gt;&lt;/p&gt;
-    &lt;/td&gt;
-    &lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-      &lt;h3&gt;☀️ HelioSense&lt;/h3&gt;
-      &lt;p&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/STATUS-IN_PROGRESS-A78BFA?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;In Progress&quot; /&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/DOMAIN-EMBEDDED_IOT-F5A623?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;IoT&quot; /&gt;
-      &lt;/p&gt;
-      &lt;p&gt;Real-time smart solar panel telemetry and fault-monitoring system built on ESP32. Streams live voltage, current, and environmental sensor metrics from field hardware to track efficiency degradation under real operating conditions.&lt;/p&gt;
-      &lt;p&gt;&lt;kbd&gt;ESP32&lt;/kbd&gt; &lt;kbd&gt;C++&lt;/kbd&gt; &lt;kbd&gt;Hardware Telemetry&lt;/kbd&gt; &lt;kbd&gt;Real-Time Sensors&lt;/kbd&gt;&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-      &lt;h3&gt;🛍️ KaajerBazar&lt;/h3&gt;
-      &lt;p&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/STATUS-SHIPPED-34D399?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;Shipped&quot; /&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/DOMAIN-AI_FULL--STACK-3178C6?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;Full-Stack&quot; /&gt;
-      &lt;/p&gt;
-      &lt;p&gt;Micro-project and freelance marketplace engineered for Bangladeshi university students. Integrates LLM-powered bid matching and automated project scoping with real-time database state and escrow workflows.&lt;/p&gt;
-      &lt;p&gt;&lt;kbd&gt;Next.js&lt;/kbd&gt; &lt;kbd&gt;TypeScript&lt;/kbd&gt; &lt;kbd&gt;Tailwind CSS&lt;/kbd&gt; &lt;kbd&gt;Claude API&lt;/kbd&gt; &lt;kbd&gt;Supabase&lt;/kbd&gt;&lt;/p&gt;
-    &lt;/td&gt;
-    &lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-      &lt;h3&gt;🩺 MediSheba BD&lt;/h3&gt;
-      &lt;p&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/STATUS-SHIPPED-34D399?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;Shipped&quot; /&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/DOMAIN-HEALTHTECH-F472B6?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;HealthTech&quot; /&gt;
-      &lt;/p&gt;
-      &lt;p&gt;Unified digital healthcare platform designed for clinics and patients in Bangladesh. Features live patient queue tracking, doctor scheduling, and structured relational medical record management.&lt;/p&gt;
-      &lt;p&gt;&lt;kbd&gt;React&lt;/kbd&gt; &lt;kbd&gt;TypeScript&lt;/kbd&gt; &lt;kbd&gt;Node.js&lt;/kbd&gt; &lt;kbd&gt;MySQL&lt;/kbd&gt;&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-      &lt;h3&gt;🌊 Local Flood Management System&lt;/h3&gt;
-      &lt;p&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/STATUS-SHIPPED-34D399?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;Shipped&quot; /&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/DOMAIN-EDGE_HARDWARE-F5A623?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;Hardware&quot; /&gt;
-      &lt;/p&gt;
-      &lt;p&gt;Edge environmental monitoring node with early flood warning alerts. Continuously samples water-level and weather sensors on ESP32 microcontrollers to trigger low-latency local and remote warnings.&lt;/p&gt;
-      &lt;p&gt;&lt;kbd&gt;ESP32&lt;/kbd&gt; &lt;kbd&gt;C/C++&lt;/kbd&gt; &lt;kbd&gt;Environmental Sensors&lt;/kbd&gt; &lt;kbd&gt;Edge Alerts&lt;/kbd&gt;&lt;/p&gt;
-    &lt;/td&gt;
-    &lt;td width=&quot;50%&quot; valign=&quot;top&quot;&gt;
-      &lt;h3&gt;📄 JavaFX Resume Generator&lt;/h3&gt;
-      &lt;p&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/STATUS-SHIPPED-34D399?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;Shipped&quot; /&gt;
-        &lt;img src=&quot;https://img.shields.io/badge/DOMAIN-DESKTOP_SYSTEMS-22D3EE?style=flat-square&amp;labelColor=0B0F19&quot; alt=&quot;Desktop&quot; /&gt;
-      &lt;/p&gt;
-      &lt;p&gt;Native desktop resume builder built with strict object-oriented design patterns. Transforms structured user profiles into clean, formatted resume layouts through a responsive JavaFX interface.&lt;/p&gt;
-      &lt;p&gt;&lt;kbd&gt;Java&lt;/kbd&gt; &lt;kbd&gt;JavaFX&lt;/kbd&gt; &lt;kbd&gt;OOP Architecture&lt;/kbd&gt;&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+## 🔬 Active Research & Flagship Systems
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 Bangla Propaganda Detection</h3>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-F5A623?style=flat-square&labelColor=0B0F19" alt="Active Research" />
+        <img src="https://img.shields.io/badge/DOMAIN-LOW--RESOURCE_NLP-22D3EE?style=flat-square&labelColor=0B0F19" alt="NLP" />
+      </p>
+      <p>Investigating whether coordinated propaganda and disinformation can be reliably detected across noisy Bangla online media. Constructing a custom annotated corpus with formal labelling guidelines and benchmarking transformer & multimodal baselines.</p>
+      <p><kbd>Python</kbd> <kbd>PyTorch</kbd> <kbd>Hugging Face</kbd> <kbd>Dataset Curation</kbd> <kbd>Bangla NLP</kbd></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Low-Resource Bangla OCR</h3>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-22D3EE?style=flat-square&labelColor=0B0F19" alt="Active Research" />
+        <img src="https://img.shields.io/badge/DOMAIN-VISION_%26_OCR-A78BFA?style=flat-square&labelColor=0B0F19" alt="OCR" />
+      </p>
+      <p>Building OCR preprocessing, text detection, and sequence recognition pipelines tailored for low-quality scans, complex Bangla character ligatures, diverse typography, and noisy real-world documents.</p>
+      <p><kbd>Computer Vision</kbd> <kbd>Deep Learning</kbd> <kbd>OCR Pipelines</kbd> <kbd>Document AI</kbd></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☀️ HelioSense</h3>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-A78BFA?style=flat-square&labelColor=0B0F19" alt="In Progress" />
+        <img src="https://img.shields.io/badge/DOMAIN-EMBEDDED_IOT-F5A623?style=flat-square&labelColor=0B0F19" alt="IoT" />
+      </p>
+      <p>Real-time smart solar panel monitoring and fault-telemetry system on ESP32. Streams live voltage, current, and environmental sensor readings from field hardware to track panel efficiency under real operating conditions.</p>
+      <p><kbd>ESP32</kbd> <kbd>C++</kbd> <kbd>Real-Time Telemetry</kbd> <kbd>Hardware Sensors</kbd></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ KaajerBazar</h3>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-SHIPPED-34D399?style=flat-square&labelColor=0B0F19" alt="Shipped" />
+        <img src="https://img.shields.io/badge/DOMAIN-AI_FULL--STACK-3178C6?style=flat-square&labelColor=0B0F19" alt="Full-Stack" />
+      </p>
+      <p>Micro-project and freelance marketplace engineered for Bangladeshi students. Features AI-assisted bid matching, automated project scoping, and secure escrow workflows.</p>
+      <p><kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>Claude API</kbd> <kbd>Supabase</kbd></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 MediSheba BD (MediConnectBD)</h3>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-SHIPPED-34D399?style=flat-square&labelColor=0B0F19" alt="Shipped" />
+        <img src="https://img.shields.io/badge/DOMAIN-HEALTHTECH-F472B6?style=flat-square&labelColor=0B0F19" alt="HealthTech" />
+      </p>
+      <p>Unified digital healthcare platform for clinics and hospitals in Bangladesh with live patient queue tracking, appointment management, and structured relational medical records.</p>
+      <p><kbd>React</kbd> <kbd>TypeScript</kbd> <kbd>Node.js</kbd> <kbd>MySQL</kbd></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 Flood Warning & Edge Systems</h3>
+      <p>
+        <img src="https://img.shields.io/badge/STATUS-SHIPPED-34D399?style=flat-square&labelColor=0B0F19" alt="Shipped" />
+        <img src="https://img.shields.io/badge/DOMAIN-EDGE_%26_DESKTOP-22D3EE?style=flat-square&labelColor=0B0F19" alt="Systems" />
+      </p>
+      <p>Built an ESP32-based <b>Local Flood Management System</b> for early environmental flood alerts, alongside <b>Noor-e-Ramadan</b> (mobile companion app) and a modular <b>JavaFX Resume Generator</b>.</p>
+      <p><kbd>ESP32</kbd> <kbd>C/C++</kbd> <kbd>Java</kbd> <kbd>JavaFX</kbd> <kbd>OOP</kbd></p>
+    </td>
+  </tr>
+</table>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:34D399,50:22D3EE,100:A78BFA&height=2" width="100%" alt="divider" />
 
 ## 🛠️ Architecture & Tooling
 
-&lt;div align=&quot;center&quot;&gt;
+<div align="center">
 
-&lt;img src=&quot;https://skillicons.dev/icons?i=py,cpp,java,ts,js,pytorch,tensorflow,fastapi,nodejs,react&amp;perline=10&quot; alt=&quot;Core Stack Row 1&quot; /&gt;
-&lt;br/&gt;
-&lt;img src=&quot;https://skillicons.dev/icons?i=nextjs,tailwind,postgres,mysql,supabase,arduino,raspberrypi,git,github&amp;perline=9&quot; alt=&quot;Core Stack Row 2&quot; /&gt;
+<img src="https://skillicons.dev/icons?i=py,cpp,java,ts,js,pytorch,tensorflow,fastapi,nodejs,react&perline=10" alt="Languages, ML, and Backend Icons" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,postgres,mysql,supabase,arduino,raspberrypi,git,github&perline=9" alt="Web, Database, and Hardware Icons" />
 
-&lt;/div&gt;
+</div>
 
 <br/>
 
-| Layer | Core Technologies | Primary Focus |
+| Layer | Core Technologies | Applied To |
 | :--- | :--- | :--- |
-| **🧠 AI / ML & NLP** | `Python` · `PyTorch` · `TensorFlow` · `Hugging Face` | Low-resource Bangla NLP, propaganda detection, OCR pipelines, dataset curation |
-| **⚙️ Backend & Data** | `FastAPI` · `Node.js` · `PostgreSQL` · `MySQL` · `Supabase` | REST APIs, relational schema design, authentication, real-time state sync |
-| **🎨 Frontend & Web** | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` | Responsive full-stack web platforms, interactive dashboards, clean UI systems |
-| **📡 Embedded & Edge** | `ESP32` · `C / C++` · `Raspberry Pi` · `Arduino` | Sensor fusion, solar & environmental telemetry, hardware-to-cloud pipelines |
-| **🧰 Core Engineering** | `Java` · `JavaFX` · `Git` · `GitHub Actions` | Object-oriented systems, CI workflows, reproducible builds |
+| **🧠 AI / ML & NLP** | `Python` · `PyTorch` · `TensorFlow` · `Hugging Face` | Bangla propaganda detection, OCR pipelines, dataset construction, model evaluation |
+| **⚙️ Backend & Data** | `FastAPI` · `Node.js` · `PostgreSQL` · `MySQL` · `Supabase` | REST APIs, relational database design, authentication, real-time state sync |
+| **🎨 Frontend & Web** | `Next.js` · `React` · `TypeScript` · `Tailwind CSS` | Full-stack marketplaces, live healthcare queue dashboards, responsive web UIs |
+| **📡 Embedded & Edge** | `ESP32` · `C / C++` · `Raspberry Pi` · `Arduino` | Smart solar telemetry (*HelioSense*), flood warning nodes, sensor fusion |
+| **🧰 Core Systems** | `Java` · `JavaFX` · `Git` · `GitHub Actions` | Desktop OOP applications, CI/CD automation, versioned releases |
 
 <br/>
 
-## 📊 Telemetry & Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,50:F472B6,100:A78BFA&height=2" width="100%" alt="divider" />
 
-&lt;div align=&quot;center&quot;&gt;
+## 📝 Recent Field Notes & Writing
 
-&lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=omorfarukullas&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=22D3EE&amp;icon_color=F5A623&amp;text_color=F5F5F7&amp;ring_color=A78BFA&quot; height=&quot;165&quot; alt=&quot;GitHub Stats&quot; /&gt;
-&lt;img src=&quot;https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&amp;layout=compact&amp;hide_border=true&amp;bg_color=0B0F19&amp;title_color=22D3EE&amp;text_color=F5F5F7&quot; height=&quot;165&quot; alt=&quot;Top Languages&quot; /&gt;
-
-<br/><br/>
-
-&lt;img src=&quot;https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&amp;theme=react-dark&amp;bg_color=0B0F19&amp;color=22D3EE&amp;line=A78BFA&amp;point=F5A623&amp;area=true&amp;area_color=22D3EE&amp;hide_border=true&quot; width=&quot;98%&quot; alt=&quot;Contribution Activity Graph&quot; /&gt;
-
-<br/><br/>
-
-&lt;img src=&quot;https://raw.githubusercontent.com/omorfarukullas/omorfarukullas/output/github-contribution-grid-snake-dark.svg&quot; width=&quot;98%&quot; alt=&quot;Contribution Snake&quot; /&gt;
-
-&lt;/div&gt;
+* 📄 [**Low Resource Language OCR: A Challenge Beyond Text Recognition**](https://omorfarukullas.vercel.app/) — *Why complex character structures, diverse fonts, and scarce annotated corpora make Bangla OCR an open research challenge (Sep 2026)*
+* 🔍 [**AI-Powered OCR: Combining Computer Vision & Language Understanding**](https://omorfarukullas.vercel.app/) — *Transforming noisy, low-quality document scans into structured digital data (Aug 2026)*
+* 🌙 [**Introducing Noor-e-Ramadan: Digital Companion for the Blessed Month**](https://omorfarukullas.vercel.app/) — *Designing a full-featured mobile experience for prayer times, Quran recitation, and fasting analytics (Mar 2026)*
+* 🩺 [**Building MediConnectBD: A Smart Healthcare Platform**](https://omorfarukullas.vercel.app/) — *System architecture and engineering lessons from building a unified healthcare platform for Bangladesh (Jan 2026)*
 
 <br/>
 
-## 🧭 Current Roadmap (`2026–2027`)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:34D399&height=2" width="100%" alt="divider" />
 
-- [x] Ship full-stack platforms (**[KaajerBazar](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fomorfarukullas)**, **[MediSheba BD](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fomorfarukullas)**) and edge flood-monitoring hardware
-- [ ] Finalize annotation guidelines and release an open **Bangla Propaganda & Disinformation Dataset**
-- [ ] Benchmark transformer and multimodal OCR baselines on noisy real-world Bangla media
-- [ ] Complete field validation for **HelioSense** on live solar array telemetry
-- [ ] Publish undergraduate thesis findings and open-source evaluation pipelines
-
-<br/>
-
-&lt;div align=&quot;center&quot;&gt;
-
-&lt;sub&gt;Built where messy data meets working software · &lt;a href=&quot;https://omorfarukullas.vercel.app/&quot;&gt;omorfarukullas.vercel.app&lt;/a&gt; · &lt;a href=&quot;mailto:omor.farukh16@gmail.com&quot;&gt;omor.farukh16@gmail.com&lt;/a&gt;&lt;/sub&gt;
-
-&lt;/div&gt;
-
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+Systems+from+Messy+Data;Low-Resource+Bangla+NLP;Real-Time+IoT+on+ESP32;Applied+AI+%C2%B7+Full-Stack+%C2%B7+Research" alt="Typing SVG" />
-
-**Author:** [@omorfarukullas](https://github.com/omorfarukullas)
-
-<sub>Department of CSE, United International University (UIU), Dhaka, Bangladesh · Expected graduation: 2027</sub>
-
-<sub>`living draft` · continuously revised · [portfolio](https://omorfarukullas.vercel.app/)</sub>
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1vdWc1ZTBsdThsa2g3bHZ6OHExOHRocnlzc2JraTdmcTRxMWJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="560" alt="Data stream animation" />
-
-<sub>**Figure 1.** Messy data stream. The input I try to turn into working systems.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:A78BFA,100:F5A623&height=4" width="100%" alt="divider" />
-
-> ### 🧾 Abstract
-> I am an undergraduate who works where **messy real-world data** meets **working software**. My main research question is whether **coordinated propaganda can be detected in Bangla**, a language with hundreds of millions of speakers but few NLP resources. Beside research, I build full-stack web platforms and real-time IoT systems on ESP32. This page is a living summary of that work.
-
-**🔑 Keywords:** ![NLP](https://img.shields.io/badge/low--resource_NLP-22D3EE?style=flat-square) ![Bangla](https://img.shields.io/badge/Bangla-F472B6?style=flat-square) ![Propaganda](https://img.shields.io/badge/propaganda_detection-A78BFA?style=flat-square) ![Dataset](https://img.shields.io/badge/dataset_construction-34D399?style=flat-square) ![IoT](https://img.shields.io/badge/IoT-F5A623?style=flat-square) ![Fullstack](https://img.shields.io/badge/full--stack-3178C6?style=flat-square)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F472B6,50:A78BFA,100:22D3EE&height=4" width="100%" alt="divider" />
-
-## 1. Introduction
-
-Most NLP progress is measured in English. For Bangla, even basic questions are still open: *Where is the data? Who labelled it? Does it reflect real online media?*
-
-My view is simple:
-
-$$\max_{\theta}\ \mathbb{E}_{x \sim \text{messy world}}\big[\ \text{usefulness}(f_\theta(x))\ \big]$$
-
-A model that only works on a clean benchmark is not the goal. A system that works on real, noisy input is the goal.[^1]
-
-[^1]: Same idea for hardware. A sensor that works only on my desk is not a product.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:34D399,50:22D3EE,100:A78BFA&height=4" width="100%" alt="divider" />
-
-## 2. Methods
+## 📊 GitHub Telemetry & Activity
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,js,ts,react,nextjs,nodejs,fastapi,tailwind&perline=10" alt="Languages and web icons" />
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mysql,postgres,supabase,arduino,raspberrypi,git,github&perline=9" alt="ML, data, embedded icons" />
-
-<sub>**Figure 2.** The tools I use most.</sub>
-
-</div>
-
-| Layer | Tools | Used for |
-|:--|:--|:--|
-| 🧠 Research & ML | Python · PyTorch · TensorFlow · Hugging Face | Models, datasets, evaluation |
-| ⚙️ Backend | FastAPI · Node.js · PostgreSQL · MySQL · Supabase | APIs and data storage |
-| 🎨 Frontend | React · Next.js · TypeScript · Tailwind CSS | Interfaces |
-| 📡 Embedded | ESP32 · C/C++ · Raspberry Pi | Sensors and real-time monitoring |
-| 🧰 Core | Java · JavaScript · Git · GitHub | Everything else |
-
-<sub>**Table 1.** Methods used across my work.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5A623,50:F472B6,100:A78BFA&height=4" width="100%" alt="divider" />
-
-## 3. Experiments
-
-| # | Experiment | Stack | State |
-|:-:|---|---|:-:|
-| E1 | 🔎 **Bangla Propaganda Detection**: can coordinated propaganda be found in Bangla online media? Building a dataset and comparing detection methods. Now reading the literature. | NLP · Dataset construction | ![](https://img.shields.io/badge/-research-F5A623?style=flat-square) |
-| E2 | ☀️ **HelioSense**: real-time smart solar panel monitoring | ESP32 · C++ · Sensors | ![](https://img.shields.io/badge/-in_progress-F5A623?style=flat-square) |
-| E3 | 🌊 **Local Flood Management System**: environmental monitoring with early flood warning | ESP32 · C++ · Sensors | ![](https://img.shields.io/badge/-done-34D399?style=flat-square) |
-| E4 | 🛍️ **KaajerBazar**: micro-project marketplace for Bangladeshi students, with AI-assisted bid matching | Next.js · Tailwind · Claude API · Supabase | ![](https://img.shields.io/badge/-done-34D399?style=flat-square) |
-| E5 | 🩺 **MediSheba BD**: healthcare platform with live queue tracking | React · TypeScript · Node.js · MySQL | ![](https://img.shields.io/badge/-done-34D399?style=flat-square) |
-| E6 | 📄 **JavaFX Resume Generator**: desktop resume builder, OOP design | Java · JavaFX | ![](https://img.shields.io/badge/-done-34D399?style=flat-square) |
-
-<sub>**Table 2.** Six experiments. Two are still running.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A78BFA,50:22D3EE,100:34D399&height=4" width="100%" alt="divider" />
-
-## 4. Results
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=F5A623&text_color=F5F5F7&ring_color=A78BFA" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=F5F5F7" height="170" alt="Top languages" />
-
-<sub>**Figure 3.** GitHub statistics (left) and most used languages (right).</sub>
+<img src="https://github-readme-stats.vercel.app/api?username=omorfarukullas&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=22D3EE&icon_color=F5A623&text_color=F5F5F7&ring_color=A78BFA" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omorfarukullas&layout=compact&hide_border=true&bg_color=0B0F19&title_color=22D3EE&text_color=F5F5F7" height="170" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&theme=react-dark&bg_color=0B0F19&color=22D3EE&line=A78BFA&point=F5A623&area=true&area_color=22D3EE&hide_border=true" width="95%" alt="Contribution activity" />
-
-<sub>**Figure 4.** Contribution activity over time.</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omorfarukullas&theme=react-dark&bg_color=0B0F19&color=22D3EE&line=A78BFA&point=F5A623&area=true&area_color=22D3EE&hide_border=true" width="96%" alt="Contribution Activity" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/omorfarukullas/omorfarukullas/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution snake" />
-
-<sub>**Figure 5.** The same data, but a snake eats it.</sub>
+<img src="https://raw.githubusercontent.com/omorfarukullas/omorfarukullas/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution Snake" />
 
 </div>
 
-| Metric | Value |
-|:--|:-:|
-| Experiments completed | 4 / 6 |
-| Languages in daily use | Python, C++, Java, TypeScript |
-| Hardware platforms | ESP32, Raspberry Pi |
-| Main research language | Bangla |
+<br/>
 
-<sub>**Table 3.** Honest summary. Research results will be added when they exist.</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:F472B6,100:F5A623&height=2" width="100%" alt="divider" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:F472B6,100:F5A623&height=4" width="100%" alt="divider" />
+## 🧭 2026–2027 Roadmap
 
-## 5. Future Work
+- [x] Ship full-stack platforms (**KaajerBazar**, **MediSheba BD**, **Noor-e-Ramadan**) and edge flood-monitoring hardware
+- [ ] Release an open **Bangla Propaganda Detection Dataset** with a formal annotation guide
+- [ ] Benchmark transformer and multimodal OCR models on noisy real-world Bangla documents and online media
+- [ ] Complete field validation of **HelioSense** with live solar panel telemetry
+- [ ] Publish undergraduate thesis findings at UIU and open-source the evaluation pipelines
 
-- [ ] Lock the research direction for Bangla propaganda detection
-- [ ] Release a Bangla propaganda dataset with a clear annotation guide
-- [ ] Finish HelioSense and test it with real solar panel data
-- [ ] Go deeper into NLP, low-resource methods, and DevOps
-- [ ] Write the research up properly
-
-> **Open to:** research collaboration · AI/ML and NLP projects · embedded and IoT builds
-
-## References & Contact
+> 🤝 **Open to:** Low-resource NLP & OCR research collaborations · Applied AI/ML engineering · Full-stack & ESP32 IoT builds — reach out at [**omor.farukh16@gmail.com**](mailto:omor.farukh16@gmail.com) or visit [**omorfarukullas.vercel.app**](https://omorfarukullas.vercel.app/).
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omorfarukullas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omorullas/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/berlinsergio34)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omorfaruk16)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omor.farukh16@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logoColor=white)](https://omorfarukullas.vercel.app/)
-
-<br/>
-
-<sub>Revision log: v0.x, updated whenever the work changes.</sub>
-
-![Readers](https://komarev.com/ghpvc/?username=omorfarukullas&color=A78BFA&style=flat-square&label=Readers)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,35:F472B6,70:A78BFA,100:22D3EE&height=150&section=footer&text=Thanks%20for%20reading&fontSize=22&fontColor=0B0F19&fontAlignY=75" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:1E1B4B,100:22D3EE&height=120&section=footer&text=Turning%20messy%20data%20into%20systems%20that%20work%20%C2%B7%20%3C%2FOFU%3E&fontSize=18&fontColor=F5F5F7&fontAlignY=68" width="100%" alt="Footer" />
 
 </div>
