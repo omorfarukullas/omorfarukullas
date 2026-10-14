@@ -1,12 +1,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=2" width="100%" alt="rule" />
-<sub><b>VOL. 1 &nbsp;·&nbsp; DHAKA, BANGLADESH &nbsp;·&nbsp; CLASS OF 2027 &nbsp;·&nbsp; FREE TO READ</b></sub>
+<sub><b>VOL. 1 &nbsp;·&nbsp; DHAKA, BANGLADESH &nbsp;·&nbsp; CLASS OF 2026 &nbsp;·&nbsp; FREE TO READ</b></sub>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=888888&height=1" width="100%" alt="rule" />
 
 <br/>
 
-# THE ULLAS TIMES
+# THE OMOR'S TIMES
 
 ### *Building systems from messy data*
 
